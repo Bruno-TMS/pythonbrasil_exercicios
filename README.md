@@ -2,4 +2,4 @@
 
 Lista de exercícios da linguagem python 
 
-###[Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial)
+### [Estrutura Sequencial ](https://wiki.python.org.br/EstruturaSequencial)
